@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Contatos</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_manage_contact">ManageContact</string>
+    <string name="manage_contact_fragment_title_update">Update Contact</string>
+    <string name="manage_contact_fragment_title_create">Create Contact</string>
+    <string name="btn_update">Update</string>
+    <string name="btn_save">Save</string>
+</resources>
